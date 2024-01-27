@@ -2,7 +2,7 @@
   - 👀 I’m interested in Python and bash scripting
 - 🌱 I’m currently learning Pythonn
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me yurtcuoglu@gmail.com
+- 📫 How to reach me yurtcuogluer@gmail.com
 - 😄 Pronouns: Arr-deem
 - ⚡ Fun fact: 
 
