@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @yurtcuogluer
-  - 👀 I’m interested in Python and bash scripting
-- 🌱 I’m currently learning Python Perl Bash
+  - 👀 I’m interested in RHEL, Fedora and SELinux
+- 🌱 I’m currently learning Zero Trust Model architecture in Cloud
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me yurtcuogluer@gmail.com
+- 📫 How to reach me erdem@zerotrustcloud.net
 - 😄 Pronouns: Arr-deem
 - ⚡ Fun fact: 
 
