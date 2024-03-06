@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yurtcuogluer
   - 👀 I’m interested in RHEL, Fedora and SELinux
 - 🌱 I’m currently learning Zero Trust Model architecture in Cloud
-- 📫 How to reach me erdem@zerotrustcloud.net
+- 📫 How to reach me yurtcuogluer@gmail.com
 - 😄 Pronouns: Arr-deem
 
 <!---
